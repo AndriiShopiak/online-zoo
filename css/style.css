@@ -24,7 +24,7 @@ body {
 }
 button {
     text-transform: uppercase;
-    background: #fc8d5d;
+    background: #FE9013;
     border: none;
     border-radius: 25px;
     text-align: center;
@@ -37,7 +37,7 @@ button {
     transition: all .6s ease;
 }
 button:hover {
-    background: #FFEE2E;
+    background: #9d9862;
 }
 /* ---HEADER----------------------------- */
 .header {
@@ -124,7 +124,7 @@ button:hover {
 }
 .watch_online__content {
     background: url(../img/watch_online/1.jpg);
-    padding: 92px 0;
+    padding: 92px 0px 150px 0px;
     background-repeat: no-repeat;
     background-size: cover;
 }
