@@ -28,8 +28,8 @@ button {
     border: none;
     border-radius: 25px;
     text-align: center;
-    padding: 16px 30px;
-    margin-top: 76px;
+    padding: 16px 100px;
+    margin-top: 63px;
     line-height: 140%;
     color: #fff;
     font-weight: 500;
@@ -124,9 +124,10 @@ button:hover {
 }
 .watch_online__content {
     background: url(../img/watch_online/1.jpg);
-    padding: 92px 0px 150px 0px;
+    padding: 92px 0px 222px 0px;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: 0 -200px;
 }
 
 .watch_online__block {
@@ -145,8 +146,8 @@ button:hover {
 }
 .circle__content {
     position: relative;
-    top: 66px;
-    left: 82px;
+    top: 73px;
+    left: 87px;
 }
 .circle__title {
     font-weight: 700;
